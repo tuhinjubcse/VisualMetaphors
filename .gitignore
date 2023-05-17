@@ -1,0 +1,6 @@
+## Ignore DEV and Big Files for VE
+VisualEntaiment/OFA-Compress/
+VisualEntaiment/checkpoints/
+VisualEntaiment/datasets/
+VisualEntaiment/logs/
+VisualEntaiment/tmp/
