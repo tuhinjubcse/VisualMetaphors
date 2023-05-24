@@ -1,0 +1,9 @@
+{
+    "metaphor": "He looks like a sea urchin",
+    "id": 60,
+    "3": "DALLE",
+    "2": "DALLE_CoT",
+    "4": "SD",
+    "5": "SD_CoT",
+    "1": "Struct_CoT"
+}

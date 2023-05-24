@@ -1,0 +1,9 @@
+{
+    "metaphor": "A star crowns the Christmas Tree",
+    "id": 7,
+    "5": "DALLE",
+    "4": "DALLE_CoT",
+    "3": "SD",
+    "2": "SD_CoT",
+    "1": "Struct_CoT"
+}

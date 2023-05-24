@@ -1,0 +1,9 @@
+{
+    "metaphor": "Life is a maze",
+    "id": 46,
+    "5": "DALLE",
+    "4": "DALLE_CoT",
+    "1": "SD",
+    "2": "SD_CoT",
+    "3": "Struct_CoT"
+}

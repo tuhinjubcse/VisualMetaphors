@@ -1,0 +1,9 @@
+{
+    "metaphor": "He lathered fertilizer over the lawn",
+    "id": 15,
+    "3": "DALLE",
+    "4": "DALLE_CoT",
+    "5": "SD",
+    "1": "SD_CoT",
+    "2": "Struct_CoT"
+}

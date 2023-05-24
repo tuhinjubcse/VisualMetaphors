@@ -1,0 +1,9 @@
+{
+    "metaphor": "Death is like moonlight in a lofty wood",
+    "id": 32,
+    "1": "DALLE",
+    "2": "DALLE_CoT",
+    "3": "SD",
+    "4": "SD_CoT",
+    "5": "Struct_CoT"
+}

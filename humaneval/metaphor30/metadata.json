@@ -1,0 +1,9 @@
+{
+    "metaphor": "The earth is like a mother",
+    "id": 30,
+    "4": "DALLE",
+    "5": "DALLE_CoT",
+    "2": "SD",
+    "3": "SD_CoT",
+    "1": "Struct_CoT"
+}
