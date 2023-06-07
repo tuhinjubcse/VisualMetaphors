@@ -1,0 +1,9 @@
+{
+    "metaphor": "The classroom was a zoo",
+    "id": 48,
+    "1": "DALLE",
+    "2": "DALLE_CoT",
+    "5": "SD",
+    "4": "SD_CoT",
+    "3": "Struct_CoT"
+}

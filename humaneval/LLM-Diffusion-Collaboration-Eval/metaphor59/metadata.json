@@ -1,0 +1,9 @@
+{
+    "metaphor": "He is grinning like an ape",
+    "id": 59,
+    "1": "DALLE",
+    "5": "DALLE_CoT",
+    "2": "SD",
+    "4": "SD_CoT",
+    "3": "Struct_CoT"
+}
