@@ -1,9 +1,0 @@
-{
-    "metaphor": "Your face is a puzzle of a scene with few discriminate landmarks",
-    "id": 31,
-    "1": "DALLE",
-    "3": "DALLE_CoT",
-    "2": "SD",
-    "5": "SD_CoT",
-    "4": "Struct_CoT"
-}

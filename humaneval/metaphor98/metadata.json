@@ -1,9 +1,0 @@
-{
-    "metaphor": "The wildfire leapt through the forest at an amazing speed.",
-    "id": 98,
-    "4": "DALLE",
-    "2": "DALLE_CoT",
-    "3": "SD",
-    "5": "SD_CoT",
-    "1": "Struct_CoT"
-}

@@ -1,9 +1,0 @@
-{
-    "metaphor": "A heartbeat is like a never-ending stampede of buffalo",
-    "id": 1,
-    "4": "DALLE",
-    "1": "DALLE_CoT",
-    "2": "SD",
-    "5": "SD_CoT",
-    "3": "Struct_CoT"
-}

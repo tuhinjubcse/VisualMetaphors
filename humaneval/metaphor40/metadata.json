@@ -1,9 +1,0 @@
-{
-    "metaphor": "My brain is like a box of crayons",
-    "id": 40,
-    "2": "DALLE",
-    "1": "DALLE_CoT",
-    "5": "SD",
-    "3": "SD_CoT",
-    "4": "Struct_CoT"
-}

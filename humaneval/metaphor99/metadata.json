@@ -1,9 +1,0 @@
-{
-    "metaphor": "The window panes were trembling as the wind blew through them.",
-    "id": 99,
-    "1": "DALLE",
-    "3": "DALLE_CoT",
-    "5": "SD",
-    "4": "SD_CoT",
-    "2": "Struct_CoT"
-}

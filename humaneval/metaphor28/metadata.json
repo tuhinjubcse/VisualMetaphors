@@ -1,9 +1,0 @@
-{
-    "metaphor": "My gondola is a black sea-swan",
-    "id": 28,
-    "5": "DALLE",
-    "3": "DALLE_CoT",
-    "1": "SD",
-    "4": "SD_CoT",
-    "2": "Struct_CoT"
-}

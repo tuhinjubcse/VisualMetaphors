@@ -1,9 +1,0 @@
-{
-    "metaphor": "The sun is a wounded deer",
-    "id": 2,
-    "4": "DALLE",
-    "3": "DALLE_CoT",
-    "2": "SD",
-    "1": "SD_CoT",
-    "5": "Struct_CoT"
-}

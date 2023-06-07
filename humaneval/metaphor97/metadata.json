@@ -1,9 +1,0 @@
-{
-    "metaphor": "The teapot quivered as the water boiled.",
-    "id": 97,
-    "4": "DALLE",
-    "2": "DALLE_CoT",
-    "5": "SD",
-    "1": "SD_CoT",
-    "3": "Struct_CoT"
-}

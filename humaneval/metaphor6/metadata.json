@@ -1,9 +1,0 @@
-{
-    "metaphor": "The stormy ocean was a raging bull",
-    "id": 6,
-    "4": "DALLE",
-    "3": "DALLE_CoT",
-    "1": "SD",
-    "5": "SD_CoT",
-    "2": "Struct_CoT"
-}

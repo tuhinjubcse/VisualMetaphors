@@ -1,9 +1,0 @@
-{
-    "metaphor": "After a glass of wine, he loosened up a bit",
-    "id": 8,
-    "2": "DALLE",
-    "1": "DALLE_CoT",
-    "4": "SD",
-    "5": "SD_CoT",
-    "3": "Struct_CoT"
-}

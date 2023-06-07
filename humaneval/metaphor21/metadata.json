@@ -1,9 +1,0 @@
-{
-    "metaphor": "Love is like outer space",
-    "id": 21,
-    "1": "DALLE",
-    "2": "DALLE_CoT",
-    "4": "SD",
-    "3": "SD_CoT",
-    "5": "Struct_CoT"
-}

@@ -1,9 +1,0 @@
-{
-    "metaphor": "Her song is like a cloud of heavy smoke",
-    "id": 20,
-    "5": "DALLE",
-    "2": "DALLE_CoT",
-    "3": "SD",
-    "1": "SD_CoT",
-    "4": "Struct_CoT"
-}

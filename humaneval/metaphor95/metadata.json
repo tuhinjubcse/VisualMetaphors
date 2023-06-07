@@ -1,9 +1,0 @@
-{
-    "metaphor": "The sky flushed with rosy splendor.",
-    "id": 95,
-    "3": "DALLE",
-    "1": "DALLE_CoT",
-    "5": "SD",
-    "4": "SD_CoT",
-    "2": "Struct_CoT"
-}

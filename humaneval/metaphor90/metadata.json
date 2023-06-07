@@ -1,9 +1,0 @@
-{
-    "metaphor": "Monty swam in a sea of diamonds.",
-    "id": 90,
-    "2": "DALLE",
-    "5": "DALLE_CoT",
-    "4": "SD",
-    "1": "SD_CoT",
-    "3": "Struct_CoT"
-}

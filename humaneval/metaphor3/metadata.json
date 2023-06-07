@@ -1,9 +1,0 @@
-{
-    "metaphor": "My whole mind is a leaking black hole",
-    "id": 3,
-    "1": "DALLE",
-    "4": "DALLE_CoT",
-    "5": "SD",
-    "2": "SD_CoT",
-    "3": "Struct_CoT"
-}
